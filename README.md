@@ -8,3 +8,9 @@ Recriada a página de login do Instagram.
 
 Recriada clone de página da Netflix.
 
+
+
+# 3. Snake Game
+
+Criado jogo da cobra.
+
